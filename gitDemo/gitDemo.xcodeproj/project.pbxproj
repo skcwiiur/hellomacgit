@@ -13,7 +13,6 @@
 		028E6D1D1CF5395100B2A476 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 028E6D1B1CF5395100B2A476 /* Main.storyboard */; };
 		028E6D1F1CF5395200B2A476 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 028E6D1E1CF5395200B2A476 /* Assets.xcassets */; };
 		028E6D221CF5395200B2A476 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 028E6D201CF5395200B2A476 /* LaunchScreen.storyboard */; };
-		028E6D2B1CF53A5B00B2A476 /* UIViewExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 028E6D2A1CF53A5B00B2A476 /* UIViewExtend.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +27,6 @@
 		028E6D211CF5395200B2A476 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		028E6D231CF5395200B2A476 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		028E6D291CF53A5B00B2A476 /* UIViewExtend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewExtend.h; sourceTree = "<group>"; };
-		028E6D2A1CF53A5B00B2A476 /* UIViewExtend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewExtend.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +64,6 @@
 				028E6D181CF5395100B2A476 /* ViewController.h */,
 				028E6D191CF5395100B2A476 /* ViewController.m */,
 				028E6D291CF53A5B00B2A476 /* UIViewExtend.h */,
-				028E6D2A1CF53A5B00B2A476 /* UIViewExtend.m */,
 				028E6D1B1CF5395100B2A476 /* Main.storyboard */,
 				028E6D1E1CF5395200B2A476 /* Assets.xcassets */,
 				028E6D201CF5395200B2A476 /* LaunchScreen.storyboard */,
@@ -156,7 +153,6 @@
 			files = (
 				028E6D1A1CF5395100B2A476 /* ViewController.m in Sources */,
 				028E6D171CF5395100B2A476 /* AppDelegate.m in Sources */,
-				028E6D2B1CF53A5B00B2A476 /* UIViewExtend.m in Sources */,
 				028E6D141CF5395100B2A476 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
